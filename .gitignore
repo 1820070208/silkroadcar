@@ -1,0 +1,9 @@
+Debug/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+.settings/
